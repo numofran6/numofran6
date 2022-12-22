@@ -23,7 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> 
 - :telescope: I’m specialize in building elegant user interface with the aim to create exceptional digital experience
 
 - :seedling: Exploring Backend Development.
