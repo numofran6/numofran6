@@ -16,9 +16,9 @@
     </a>
   </div>
     
-    <div>
+   
     CHECK OUT My Portfolio: https://numoportfolio.vercel.app/
-    </div>
+   
 
 </div>
 
