@@ -15,13 +15,11 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-    
-   
-    My Portfolio: 
-    https://numoportfolio.vercel.app/
-   
+ </div>
 
-</div>
+---
+
+[Check out My Portfolio](https://numoportfolio.vercel.app/)
 
 ---
 
