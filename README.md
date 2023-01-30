@@ -1,3 +1,5 @@
+<!--[![profile Header](https://user-images.githubusercontent.com/78784850/185071059-bcedf7d4-3038-404e-ad0f-4837bb2120d0.png)](https://numoportfolio.vercel.app/)-->
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
   
@@ -16,10 +18,6 @@
     </a>
   </div>
  </div>
-
----
-
-[Check out My Portfolio](https://numoportfolio.vercel.app/)
 
 ---
 
