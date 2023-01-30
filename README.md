@@ -1,9 +1,8 @@
-<!--[![profile Header](https://user-images.githubusercontent.com/78784850/185071059-bcedf7d4-3038-404e-ad0f-4837bb2120d0.png)](https://numoportfolio.vercel.app/)-->
+[![developer](https://user-images.githubusercontent.com/68471958/215438263-6c90fb08-2d30-4428-90fe-061571ea830c.png)](https://numoportfolio.vercel.app/)
 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
-  
-    
+<!--<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>-->
+
+<div id="header" align="center">    
   <h1>
   hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
