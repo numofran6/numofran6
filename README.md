@@ -19,7 +19,7 @@
 ---
 
 ### ❓ About Me :
-⚡ **I am a Front-End Developer** 
+**I am a Front-End Developer** 
 - I love building elegant looking user interfaces that creates an exceptional user experience
 
 - My goal is to build a frontend that will convert a prospect into an active customer
