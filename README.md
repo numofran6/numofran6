@@ -2,7 +2,7 @@
 
 <div id="header" align="center">  
   <h3>
-      Hey There!
+      Hello
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h3>  
   
