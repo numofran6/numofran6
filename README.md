@@ -1,4 +1,4 @@
-[![developer](https://user-images.githubusercontent.com/68471958/215438263-6c90fb08-2d30-4428-90fe-061571ea830c.png)](https://numoportfolio.vercel.app/)
+<!-- [![developer](https://user-images.githubusercontent.com/68471958/215438263-6c90fb08-2d30-4428-90fe-061571ea830c.png)](https://numoportfolio.vercel.app/) -->
 
 <div id="header" align="center">  
   <h3>
@@ -22,7 +22,7 @@
 **I am a Front-End Developer** 
 - I love building elegant looking user interfaces that creates an exceptional user experience
 
-- My goal is to build a frontend that will convert a prospect into an active customer
+- My goal is to help companies build software products that will convert a prospect into an active customer. By accurately translating business and user needs into a functional and engaging frontend design. 
 
 - Let me help you combine aesthetics, performance and functionality into an amazing product
 
