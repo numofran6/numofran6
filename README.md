@@ -8,7 +8,7 @@
   
   <h4>
     <a href="https://numoportfolio.vercel.app">
-      My Portfolio
+      Check out my Portfolio
     </a>
   </h4>
   
