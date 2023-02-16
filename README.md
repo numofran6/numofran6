@@ -26,11 +26,13 @@
 
 ### ❓ About Me :
 **I am a Front-End Developer** 
-- I love building elegant looking user interfaces that creates an exceptional user experience
+* I love building elegant looking user interfaces that creates an exceptional user experience
 
-- My goal is to help companies build software products that will convert a prospect into an active customer. By accurately translating business and user needs into a functional and engaging frontend design. 
+* My goal is to help companies build software products that will convert a prospect into an active customer. By accurately translating business and user needs into a functional and engaging frontend design.
+ 
+* I love contributing to open source and collaborating with other devs in the community.
 
-- Let me help you combine aesthetics, performance and functionality into an amazing product
+* Let me help you combine aesthetics, performance and functionality into an amazing product
 
 ---
 
