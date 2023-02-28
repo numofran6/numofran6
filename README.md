@@ -12,10 +12,14 @@
     </a>
   </h4>
   
- <p>
- <a href="https://linkedin.com/in/numofrancis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r12esh" height="30" width="40" /></a>
-<a href="https://twitter.com/numofran6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r12esh" height="30" width="40" /></a>
-</p>
+  <div id="badges">   
+    <a href="https://linkedin.com/in/numofrancis">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/numofran6">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
  </div>
 
 ---
