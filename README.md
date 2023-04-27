@@ -7,17 +7,16 @@
     </h3>  
   
   <h4>
+
+  </h4>
+  
+  <div id="badges">  
     <a href="https://numoportfolio.vercel.app">
       Visit my Portfolio Website
     </a>
-  </h4>
-  
-  <div id="badges">   
+    <p></p>
     <a href="https://linkedin.com/in/numofrancis">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/numofran6">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
  </div>
