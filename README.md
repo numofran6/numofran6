@@ -26,8 +26,7 @@
 <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </span>
 
-<br/>
-<br/>
+<!-- <br/> -->
 
 <span>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -49,6 +48,7 @@
 <img alt="Github" src="https://img.shields.io/badge/Tools-GitHub-informational?style=plastic&logo=GitHub&color=181717"/>
 </span>
 
+<br/>
 <br/>
 <br/>
 
