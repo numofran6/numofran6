@@ -10,6 +10,8 @@
   </div>
  </div>
  
+<br/>
+<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <span><img alt=”React” src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -24,6 +26,8 @@
 <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </span>
 
+<br/>
+<br/>
 
 <span>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -32,6 +36,8 @@
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </span>
 
+<br/>
+<br/>
 <br/>
 <br/>
 
