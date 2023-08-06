@@ -4,9 +4,9 @@
     </h3>  
 
   <div id="badges">  
-    <a href="https://numoportfolio.vercel.app">
-      Visit my Portfolio Website
-    </a>
+  <a href="https://numoportfolio.vercel.app" target="_blank">
+    Visit my Portfolio Website
+  </a>
   </div>
  </div>
  
