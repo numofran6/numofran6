@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <span><img alt=”React” src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=numofran6&theme=dark&background=000000)](https://git.io/streak-stats)
 
