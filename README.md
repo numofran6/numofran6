@@ -15,6 +15,7 @@
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-404D59?style=for-the-badge&logo=wordpress$logoColor=white"/>
 </div> 
 
 ## 👨🏾‍💻 Coding Streak
