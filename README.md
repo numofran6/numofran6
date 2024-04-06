@@ -2,7 +2,7 @@
 
 ## 👨🏾‍💻 Software Developer |  <a target="_blank" rel="noopener noreferrer" href="https://numoportfolio.vercel.app/"> 🌍 Portfolio</a> ↗
 
-- ⚡ I'm an expert in implementing software solutions that address unique challenges and measurably impact the bottom line.
+- ⚡ I'm an expert in implementing software solutions that address unique challenges.
 - 👯 Always excited to collaborate on exciting projects that solve interesting problems.
 
 ## 💻 Technologies & Languages
