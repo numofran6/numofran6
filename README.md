@@ -1,4 +1,4 @@
-# 👋 Numo Nanortey here!
+<h3>👋 Numo Nanortey here!</h3>
 
 ## 👨🏾‍💻 Software Developer |  <a target="_blank" rel="noopener noreferrer" href="https://numoportfolio.vercel.app/"> 🌍 Portfolio</a> ↗
 
