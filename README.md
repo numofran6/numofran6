@@ -3,7 +3,7 @@
 ## 👨🏾‍💻 Web Developer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗
 
 - ⚡ I'm an expert in implementing software solutions that address unique challenges.
-- 👯 Always excited to collaborate on exciting projects.
+- 👯 Always excited to collaborate projects.
 
 ## 💻 Technologies & Languages
 -  I have built some amazing projects with React, WordPress (Gutenberg), Next.Js, MongoDB, NodeJS, etc.
