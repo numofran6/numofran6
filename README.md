@@ -2,8 +2,8 @@
 
 ## 👨🏾‍💻 Web Developer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗
 
-⚡ I specialize in crafting tailored front-end solutions to tackle unique needs. <br/>
-👯 Always excited to collaborate on projects.
+- I specialize in crafting tailored front-end solutions to tackle unique needs. <br/>
+- Always excited to collaborate on projects.
 
 ## 💻 Skills
 <!---  I have built some amazing projects with React, WordPress (Gutenberg), Next.Js, MongoDB, NodeJS, etc.
