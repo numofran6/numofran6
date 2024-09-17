@@ -1,9 +1,6 @@
-<h3>👋 Numo Nanortey here!</h3>
+<h3>👋 Numo here!</h3>
 
-## 👨🏾‍💻 Web Developer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗
-
-- I specialize in crafting tailored front-end solutions to tackle unique needs. <br/>
-- Always excited to collaborate.
+<h3>👨🏾‍💻 Web Developer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗</h3>
 
 ## 💻 Skills
 <!---  I have built some amazing projects with React, WordPress (Gutenberg), Next.Js, MongoDB, NodeJS, etc.
@@ -18,7 +15,7 @@
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-404D59?style=for-the-badge&logo=wordpress$logoColor=white"/>
 </div> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=php,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=php,wordpress)](https://skillicons.dev)
 
 
 ## 👨🏾‍💻 Coding Streak
