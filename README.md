@@ -18,13 +18,13 @@
 [![My Skills](https://skillicons.dev/icons?i=react,next,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=php,wordpress)](https://skillicons.dev)
 
 
-## 👨🏾‍💻 Coding Streak
+<!-- ## 👨🏾‍💻 Coding Streak
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okraks&" alt="okraks" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okraks&" alt="okraks" /></p> 
 
 <p align="left">
     <a href="https://github.com/RianIslam/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="numofran6' coding streak" src="http://github-readme-streak-stats.herokuapp.com?user=numofran6&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p>-->
 
