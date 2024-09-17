@@ -1,6 +1,6 @@
 <h3>👋 Numo here!</h3>
 
-<h3>👨🏾‍💻 Web Developer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗</h3>
+<h2>👨🏾‍💻 Web Developer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗</h2>
 
 <!--- ## 💻 Skills
  I have built some amazing projects with React, WordPress (Gutenberg), Next.Js, MongoDB, NodeJS, etc.
