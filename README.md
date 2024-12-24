@@ -15,7 +15,7 @@
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-404D59?style=for-the-badge&logo=wordpress$logoColor=white"/>
 </div> -->
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=php,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,php,wordpress)](https://skillicons.dev)
 
 
 <!-- ## 👨🏾‍💻 Coding Streak
