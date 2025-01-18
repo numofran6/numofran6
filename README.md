@@ -1,7 +1,7 @@
 <h3>👋 Numo here!</h3>
 
 <h2>👨🏾‍💻 Web Developer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗</h2>
-<p>Front-End (React.js, Next.js), Back-End (Node.js, Express, NestJs) & WordPress Theme and Block Development</p>
+<p><strong>Front-End</strong> (React.js, Next.js), <strong>Back-End</strong> (Node.js, Express, NestJs) & <strong>WordPress Theme and Block</strong> Development</p>
 
 <!--- ## 💻 Skills
  I have built some amazing projects with React, WordPress (Gutenberg), Next.Js, MongoDB, NodeJS, etc.
