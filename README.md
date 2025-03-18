@@ -1,7 +1,10 @@
 <p>👋 Currently collaborating on GitLab</p>
 
 <h2>👨🏾‍💻 Web Developer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗</h2>
-<p><strong>Front-End</strong> (React.js, Next.js), <strong>Back-End</strong> (Node.js, Express, NestJs) & <strong>WordPress Development</strong></p>
+
+- <strong>Front-End</strong> (React.js, Next.js) 
+- <strong>Back-End</strong> (Node.js, Express, NestJs) 
+- <strong>WordPress Development</strong>
 
 <!--- ## 💻 Skills
  I have built some amazing projects with React, WordPress (Gutenberg), Next.Js, MongoDB, NodeJS, etc.
