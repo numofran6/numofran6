@@ -1,4 +1,4 @@
-<p>👋 Currently collaborating on GitLab</p>
+<p>👋 Currently collaborating on <a target="_blank" rel="noopener noreferrer" href="https://gitlab.group.one/franum"> 🌍 GitLab</a></p>
 
 <h2>👨🏾‍💻 Web Developer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗</h2>
 
