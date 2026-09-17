@@ -1,10 +1,10 @@
 <p>👋 Currently collaborating on <a target="_blank" rel="noopener noreferrer" href="https://gitlab.group.one/franum"> 🌍 GitLab</a></p>
 
-<h2>👨🏾‍💻 Web Developer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗</h2>
+<h2>👨🏾‍💻 Software Engineer |  <a target="_blank" rel="noopener noreferrer" href="https://devnumo.vercel.app/"> 🌍 Portfolio</a> ↗</h2>
 
 - <strong>Front-End</strong> (React.js, Next.js) 
-- <strong>Back-End</strong> (Django, Express, NestJs) 
-- <strong>WordPress Development</strong>
+- <strong>Back-End</strong> (NodeJs: Express and NestJs) 
+- <strong>WordPress Themes & Plugin Development</strong>
 
 <!--- ## 💻 Skills
  I have built some amazing projects with React, WordPress (Gutenberg), Next.Js, MongoDB, NodeJS, etc.
